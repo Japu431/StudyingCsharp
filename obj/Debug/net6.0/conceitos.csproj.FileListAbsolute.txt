@@ -1,0 +1,15 @@
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.csproj.AssemblyReference.cache
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.AssemblyInfoInputs.cache
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.AssemblyInfo.cs
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.csproj.CoreCompileInputs.cache
+C:\Estudando-Estagio\Csharp\conceitos\bin\Debug\net6.0\conceitos.exe
+C:\Estudando-Estagio\Csharp\conceitos\bin\Debug\net6.0\conceitos.deps.json
+C:\Estudando-Estagio\Csharp\conceitos\bin\Debug\net6.0\conceitos.runtimeconfig.json
+C:\Estudando-Estagio\Csharp\conceitos\bin\Debug\net6.0\conceitos.dll
+C:\Estudando-Estagio\Csharp\conceitos\bin\Debug\net6.0\conceitos.pdb
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.dll
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\refint\conceitos.dll
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.pdb
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\conceitos.genruntimeconfig.cache
+C:\Estudando-Estagio\Csharp\conceitos\obj\Debug\net6.0\ref\conceitos.dll
