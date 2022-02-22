@@ -14,7 +14,8 @@ namespace conceitos.classes
         public string CPF { get; private set; }
         public double _saldo { get; protected set; }
 
-         {
+        public Employee(double saldo, string cpf)
+        {
             this._saldo = saldo;
             this.CPF = cpf;
 
