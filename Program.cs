@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using conceitos.classes;
+using conceitos.aula;
 
 namespace conceitos
 {
@@ -11,7 +12,10 @@ namespace conceitos
     {
         static void Main(string[] args)
         {
-            Estagiario funcionario01 = new Estagiario("123.123.123-50");
+            Garrafa grf = new Garrafa();
+            GarrafaTermica grf2 = new GarrafaTermica();
+            GarrafaVidro grf3 = new GarrafaVidro();
+            Barril grf4 = new Barril();
 
         }
     }
